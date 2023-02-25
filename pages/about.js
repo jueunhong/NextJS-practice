@@ -1,8 +1,5 @@
-import NavBar from "@/components/NavBar";
-
-export default function Potato() {
+export default function About() {
  return (<div>
-    <NavBar></NavBar>
-    <h2>About</h2>
+    <h1>About</h1>
  </div>)
 }
